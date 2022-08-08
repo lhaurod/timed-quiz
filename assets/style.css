@@ -1,5 +1,5 @@
 body{
-    margin: 20px!important;
+    margin: 20px;
  }
  .wrapper{
      margin: 0 auto; 
@@ -30,7 +30,6 @@ body{
      color: white;   
      font-size: 1.em;
      text-align: center;
-     /* cursor: pointer;  */
      
      
  }
@@ -47,7 +46,7 @@ body{
  }
  
  button{
-     background: rgb(87, 87, 172)!important; 
+     background: rgb(87, 87, 172); 
       
  }
  
@@ -65,7 +64,6 @@ body{
          color: white;   
          font-size: 1.em;
          text-align: center;
-         /* cursor: pointer;  */
          
          
      }

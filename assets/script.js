@@ -1,4 +1,3 @@
-
 /**set the time to zero*/
 var timer = 76;
 var timeCount;
